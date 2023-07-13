@@ -1,0 +1,25 @@
+Dependencies for Project 'blnkytst', Target 'Target 1': (DO NOT MODIFY !)
+CompilerVersion: 6190000::V6.19::ARMCLANG
+F (C:/Users/Administrator/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/RTOS/RTX/LIB/ARM/RTX_CM0.lib)(0x626FBB5E)()
+F (RTE/CMSIS/RTX_Conf_CM.c)(0x626FBB5E)(-xc -std=c90 --target=arm-arm-none-eabi -mcpu=cortex-m1 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__RTX -D__EVAL -mlittle-endian -gdwarf-4 -O0 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/_Target_1-IC:/Users/Administrator/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/Administrator/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/RTOS/RTX/INC-IC:/Users/Administrator/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/Device/ARM/ARMCM1/Include-D__UVISION_VERSION="538" -D_RTE_ -DARMCM1 -D_RTE_-o ./objects/rtx_conf_cm.o -MD)
+I (C:\Users\Administrator\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\RTOS\RTX\INC\cmsis_os.h)(0x626FBB5E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x6388B988)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stddef.h)(0x6388B988)
+I (C:\Users\Administrator\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\RTOS\RTX\INC\RTX_CM_lib.h)(0x626FBB5E)
+F (RTE/Device/ARMCM1/ARMCM1_ac6.sct)(0x626FBB5E)()
+F (RTE/Device/ARMCM1/startup_ARMCM1.c)(0x626FBB5E)(-xc -std=c90 --target=arm-arm-none-eabi -mcpu=cortex-m1 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__RTX -D__EVAL -mlittle-endian -gdwarf-4 -O0 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/_Target_1-IC:/Users/Administrator/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/Administrator/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/RTOS/RTX/INC-IC:/Users/Administrator/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/Device/ARM/ARMCM1/Include-D__UVISION_VERSION="538" -D_RTE_ -DARMCM1 -D_RTE_-o ./objects/startup_armcm1.o -MD)
+I (C:\Users\Administrator\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\Device\ARM\ARMCM1\Include\ARMCM1.h)(0x626FBB5E)
+I (C:\Users\Administrator\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm1.h)(0x626FBB5E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x6388B988)
+I (C:\Users\Administrator\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626FBB5E)
+I (C:\Users\Administrator\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626FBB5E)
+I (C:\Users\Administrator\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x626FBB5E)
+I (C:\Users\Administrator\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\Device\ARM\ARMCM1\Include\system_ARMCM1.h)(0x626FBB5E)
+F (RTE/Device/ARMCM1/system_ARMCM1.c)(0x626FBB5E)(-xc -std=c90 --target=arm-arm-none-eabi -mcpu=cortex-m1 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__RTX -D__EVAL -mlittle-endian -gdwarf-4 -O0 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/_Target_1-IC:/Users/Administrator/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/Administrator/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/RTOS/RTX/INC-IC:/Users/Administrator/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/Device/ARM/ARMCM1/Include-D__UVISION_VERSION="538" -D_RTE_ -DARMCM1 -D_RTE_-o ./objects/system_armcm1.o -MD)
+I (C:\Users\Administrator\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\Device\ARM\ARMCM1\Include\ARMCM1.h)(0x626FBB5E)
+I (C:\Users\Administrator\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm1.h)(0x626FBB5E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x6388B988)
+I (C:\Users\Administrator\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626FBB5E)
+I (C:\Users\Administrator\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626FBB5E)
+I (C:\Users\Administrator\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x626FBB5E)
+I (C:\Users\Administrator\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\Device\ARM\ARMCM1\Include\system_ARMCM1.h)(0x626FBB5E)
